@@ -25,7 +25,7 @@ The [categories.js](https://github.com/ejuneau/backthatelfup/blob/main/src/categ
 The bottom of the file contains an annotated version to give a better idea of what should go where.
 
 ## How can I view this website?
-Since it is currently just a proof of concept it's currently only available on Render through this link.
+Since it is currently just a proof of concept it's currently only available on Render through [this link](https://backthatelfup.onrender.com/).
 
 If you're happy with how things look later on we can talk about moving your current DNS records so backthatelfup.com points to this site instead.
 
